@@ -1,0 +1,7 @@
+# Ignore all PNG, JPG, and CSV files
+*.png
+*.jpg
+*.csv
+runs/
+*.plt
+
